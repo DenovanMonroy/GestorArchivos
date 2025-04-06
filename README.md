@@ -24,8 +24,8 @@ Esta es una aplicación móvil de gestión de archivos desarrollada en Android S
 
 1. **Clonar el Repositorio**:
    ```sh
-   git clone https://github.com/DenovanMonroy/file-explorer-app.git
-   ```
+[   git clone https://github.com/DenovanMonroy/file-explorer-app.git
+](https://github.com/DenovanMonroy/file-explorer-app.git)   ```
 
 2. **Abrir el Proyecto en Android Studio**:
    - Abre Android Studio.
