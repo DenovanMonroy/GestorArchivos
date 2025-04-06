@@ -1,4 +1,4 @@
-# File Explorer App
+# Gestor de archivos
 
 ## Descripción
 
